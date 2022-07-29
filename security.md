@@ -44,7 +44,7 @@ The main participants in the CVD related processes are:
 * The squads perform internal security code review of newly implemented features and other security related code changes.
 * The code reviews are performed by squad members other than the individuals who created the code.
 * The squads continuously perform security testing for security issues in their projects' code and configuration.
-* A full penetration testing is performed by the Security Workgroup before each major release.
+* Before each major release, the Security Workgroup conducts full penetration testing.
 
 ### Vulnerability monitoring</h3>
 <!-- Zowe-SSDP-SDLC #ID: ZSSD-LP:RV-ICV-PVM -->
@@ -120,7 +120,7 @@ Additional hints and recommendations:
 <!-- **IMPORTANT:**  Please do not file a public issue [disclosing vulnerabilities](#Security-issues-disclosure) as this may be misused by violent attackers. -->
     Note 1: We encourage the reporters to work with the Security Workgroup team to resolve the issue before going publicly with it.
 
-    Note 2: Security vulnerabilities identified through own testing or reported by community members, and which don't yet have assigned a CVE, are reported by the Zowe Security Workgroup to a CVE Numbering Authorityu (CNA).     
+    Note 2: Security vulnerabilities identified through our own testing or reported by community members, and which don't yet have assigned a CVE, are reported by the Zowe Security Workgroup to a CVE Numbering Authorityu (CNA).     
 
 ## Analysis and assessment 
 <!--
